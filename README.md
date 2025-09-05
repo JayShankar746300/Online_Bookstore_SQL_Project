@@ -16,17 +16,19 @@ The project demonstrates **data integrity**, **efficient queries**, and a scalab
 ---
 
 ## Project Structure
-*/Online_Bookstore_SQL_Project
-*/│
-*/├── /scripts
-│ ├── create_tables.sql # Creates all necessary tables
-│ ├── insert_data.sql # Inserts sample data into tables
-│ └── queries.sql # Sample queries for demonstration
+
+```text
+/Online_Bookstore_SQL_Project
+│
+├── /scripts
+│   ├── create_tables.sql       # Creates all necessary tables
+│   ├── insert_data.sql         # Inserts sample data into tables
+│   └── queries.sql             # Sample queries for demonstration
 │
 ├── /docs
-│ └── database_schema.png # Database schema diagram
+│   └── database_schema.png     # Database schema diagram
 │
-└── README.md # Project documentation
+└── README.md                   # Project documentation
 
 
 ---
